@@ -1,0 +1,12 @@
+﻿  YaP4.cpp
+C:\Users\Admin\Documents\OOP1\YaP4\YaP4.cpp(62,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YaP4\YaP4.cpp(81,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YaP4\YaP4.cpp(82,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YaP4\YaP4.cpp(116,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Documents\OOP1\YaP4\YaP4.cpp(117,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  16 of 413 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    36 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  YaP4.vcxproj -> C:\Users\Admin\Documents\OOP1\YaP4\x64\Release\YaP4.exe
